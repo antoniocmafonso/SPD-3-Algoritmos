@@ -1,3 +1,32 @@
+'''
+Booleanos e Condicionais
+
+And
+
+Verdade e Verdade = Verdade
+Verdade e Falso = Falso
+Falso e Verdade = Falso
+Falso e Falso = Falso
+
+OR
+
+Verdade ou Verdade = Verdade
+Verdade ou Falso = Verdade
+Falso ou Verdade = Verdade
+Falso ou Falso = Falso
+
+NOT
+
+Nao Verdade = Falso
+Nao Falso = Verdade
+'''
+
+# Exemplo
+puts true && false
+puts true || false
+puts !true || false
+#####################################
+
 x = 10
 
 if x == 10
