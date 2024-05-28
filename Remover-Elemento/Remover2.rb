@@ -10,9 +10,9 @@ def remove_element(nums, val)
     end
   
     left
-  end
+end
 
-# Exemplo de uso
+ # Exemplo de uso
 nums = [3, 2, 2, 3, 4, 5, 6, 33, 66, 99, 103]
 val = 3
 
